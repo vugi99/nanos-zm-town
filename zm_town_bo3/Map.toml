@@ -1,0 +1,17 @@
+# map configurations
+[map]
+    # compatible game-modes
+    compatible_game_modes = [
+        "sandbox",
+        "vzombies"
+    ]
+
+    # list of spawn points
+    spawn_points = [
+        { location = "Vector(2034.000, 533.000, 341.000)", rotation = "Rotator(0.000000, 0.000000, 0.000000)" },
+        { location = "Vector(3284.000, 459.000, 325.000)", rotation = "Rotator(0.000000, 0.000000, 0.000000)" },
+        { location = "Vector(2429.000, 1502.000, 328.000)", rotation = "Rotator(0.000000, 0.000000, 0.000000)" },
+        { location = "Vector(2938.000, 1530.000, 328.000)", rotation = "Rotator(0.000000, 0.000000, 0.000000)" },
+    ]
+
+[custom_data]
